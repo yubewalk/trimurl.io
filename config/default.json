@@ -1,0 +1,3 @@
+{"mongoURI": "mongodb+srv://ubonasanga:A1z26b2y25@cluster0.7euobua.mongodb.net/?retryWrites=true&w=majority",
+"baseUrl": "http://localhost:5000"
+}
